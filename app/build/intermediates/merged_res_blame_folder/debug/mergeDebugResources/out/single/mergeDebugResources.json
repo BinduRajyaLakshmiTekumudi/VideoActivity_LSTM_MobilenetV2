@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.cs663.activerec.app-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.cs663.activerec.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.cs663.activerec.app-debug-28:/layout_activity_active_rec.xml.flat",
+        "source": "com.cs663.activerec.app-main-30:/layout/activity_active_rec.xml"
+    }
+]

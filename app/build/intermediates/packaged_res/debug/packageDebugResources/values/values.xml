@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ActiveRec</string>
+    <string name="camera_denied">Camera permission denied</string>
+    <string name="choose_mode">Choose an option</string>
+    <string name="collecting">Collecting frames %1$d / %2$d…</string>
+    <string name="live_status">Live: LSTM on last 40 frames (%1$d ms)</string>
+    <string name="live_stopped">Live camera stopped</string>
+    <string name="loading_models">Loading MobileNetV2 + LSTM models…</string>
+    <string name="model_error">Could not load models: %1$s. Check the 3 files in app/src/main/assets.</string>
+    <string name="models_ready">Models ready (%1$d activities). Pick a video or start the camera.</string>
+    <string name="pick_video">Pick Video</string>
+    <string name="processing_frames">MobileNetV2 on frame %1$d / %2$d…</string>
+    <string name="start_live">Start Live</string>
+    <string name="stop_live">Stop Live</string>
+    <string name="video_done">Video classified in %1$.1f s (40 frames → MobileNetV2 → LSTM)</string>
+    <string name="video_error">Could not classify video: %1$s</string>
+    <style name="Theme.ActiveRec" parent="Theme.AppCompat.DayNight.DarkActionBar"/>
+</resources>

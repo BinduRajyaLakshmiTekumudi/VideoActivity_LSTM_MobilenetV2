@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+id liveButton
+id modeSpinner
+id previewView
+id resultText
+id statusText
+id videoButton
+layout activity_active_rec
+layout activity_main
+string app_name
+string camera_denied
+string choose_mode
+string collecting
+string live_status
+string live_stopped
+string loading_models
+string model_error
+string models_ready
+string pick_video
+string processing_frames
+string start_live
+string stop_live
+string video_done
+string video_error
+style Theme.ActiveRec

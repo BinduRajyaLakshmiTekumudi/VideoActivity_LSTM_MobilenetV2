@@ -1,0 +1,7 @@
+Copy these 3 files from the notebook (STEP 16) or Drive (CS663/LSTMVideoActivity/tflite/) into this folder:
+
+  mobilenet_feature_extractor.tflite
+  lstm_activity.tflite
+  labels.txt
+
+You can delete this text file afterwards.
